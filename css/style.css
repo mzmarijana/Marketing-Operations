@@ -112,7 +112,7 @@ p {
 
 .section-btn:focus,
 .section-btn:hover {
-  background: #000000;
+  background: #333333;
   color: #ffffff;
 }
 
